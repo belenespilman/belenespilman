@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Belén Espilman</h1>
-<h3 align="center">A passionate and enthusiastic Frontend Developer from Argentina</h3>
+<h3 align="center">A passionate and enthusiastic FullStack Developer from Argentina</h3>
 
 - 🔭 I’m currently working on **projects with React.js**
 
