@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **projects with React.js**
 
-- 🌱 I’m currently learning **Angular, Vue, Redux**
+- 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [https://belenespilman.github.io/portfolio/](https://belenespilman.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://belenespilman.site](https://belenespilman.site)
 
-- 💬 Ask me about **JavaScript, React.js, Node.js, Next.js, TypeScript, TailwindCSS**
+- 💬 Ask me about **JavaScript, React, Node, Typescript**
 
 - 📫 How to reach me **belen.espilman@gmail.com**
 
